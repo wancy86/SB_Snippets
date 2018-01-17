@@ -1,6 +1,8 @@
 <snippet>
-    <content><![CDATA[<div class="component DynamicContainer" ref="DynamicContainer">
-    <h3 class="handle">Caption</h3>
+    <content><![CDATA[
+<div class="component DynamicContainer" ref="DynamicContainer">
+    <h3 class="handle" style="">Caption</h3>
+	
 </div>
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

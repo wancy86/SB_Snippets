@@ -1,6 +1,7 @@
 <snippet>
-    <content><![CDATA[<div style="" class="component EditorRadio" ref="EditorRadio">
-    <span style="" class="notRequired" for="xxxxxxx">xxxxxxx</span>
+    <content><![CDATA[
+<div style="" class="component EditorRadio" ref="EditorRadio">
+    <label style="" class="notRequired" for="xxxxxxx">xxxxxxx</label>
     <input id="xxxxxxx" title="" tabindex="0" name="xxxxxxx" value="0" type="radio">
 </div>
 ]]></content>

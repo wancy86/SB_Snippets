@@ -1,5 +1,6 @@
 <snippet>
-    <content><![CDATA[<div style="display:none;" class="component EditorText" ref="EditorText">
+    <content><![CDATA[
+<div style="display:none;" class="component EditorText" ref="EditorText">
     <SPAN style="" class=notRequired></SPAN>
     <INPUT id="xxxxxxxxxxxxxx" name="xxxxxxxxxxxxxx" value="" />
 </div>

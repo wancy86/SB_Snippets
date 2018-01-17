@@ -1,5 +1,6 @@
 <snippet>
-    <content><![CDATA[<div class="component EditorLink" ref="EditorLink" style="">
+    <content><![CDATA[
+<div class="component EditorLink" ref="EditorLink" style="">
     <a class="Default" style="cursor:pointer;" onclick="Communication.LinkRequest('xxx.max');" tabindex="0" title="">xxxxx</a>
 </div>
 ]]></content>

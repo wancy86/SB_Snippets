@@ -1,6 +1,7 @@
 <snippet>
-    <content><![CDATA[<div style="" class="component EditorCheckBox" ref="EditorCheckBox">
-    <SPAN style="CURSOR: default" class="notRequired">ZZZZZZ</SPAN>
+    <content><![CDATA[
+<div style="" class="component EditorCheckBox" ref="EditorCheckBox">
+    <label style="CURSOR: default" class="notRequired" for="xxxxxx">xxxxxx</label>
     <INPUT id="xxxxxx" title="" tabindex="0" name="xxxxxx" value="1" type="checkbox">
 </div>
 ]]></content>
