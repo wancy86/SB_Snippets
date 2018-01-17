@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[<div style="" class="component EditorRadio" ref="EditorRadio">
+    <span style="" class="notRequired" for="xxxxxxx">xxxxxxx</span>
+    <input id="xxxxxxx" title="" tabindex="0" name="xxxxxxx" value="0" type="radio">
+</div>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>maxra</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

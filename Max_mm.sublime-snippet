@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[<div ref="EditorMemo" style="width: 440px; height: 80px;" class="component EditorMemo">
+            <span class="EditorMemoSpan notRequired" style="width: 440px; height: 80px;">Brief</span>
+            <textarea id="Brief" ng-model="student.Brief"ief" name="Brief" class="" style="width: 440px; height: 80px;">Brief</textarea>
+        </div>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>maxmm</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>
