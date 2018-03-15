@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<div class="component DynamicContainer" ref="DynamicContainer">
+<div class="component DynamicContainer borderless" ref="DynamicContainer">
     <h3 class="handle" style="">Caption</h3>
 	
 </div>

@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
 <div style="display:none;" class="component EditorText" ref="EditorText">
-    <SPAN style="" class=notRequired></SPAN>
-    <INPUT id="xxxxxxxxxxxxxx" name="xxxxxxxxxxxxxx" value="" />
+    <SPAN style="" class="notRequired"></SPAN>
+    <INPUT id="xxxxxxxxxxxxxx" name="xxxxxxxxxxxxxx" title="Please click here to enter xxxxxxxxxxxxxx." />
 </div>
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
